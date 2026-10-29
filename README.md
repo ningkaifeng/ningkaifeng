@@ -12,9 +12,9 @@
 
 | 线 | 规模 | 尺度 | 入口 |
 |---|---|---|---|
-| 理论 | 23 篇论文与著作 | 元理论 | [官网论文列表](https://zhishuixue.com/) |
-| 判例 | 41 篇决策结构判例 | 事件尺度（六要素） | [cases-index.json](https://zhishuixue.com/cases-index.json) |
-| 思想 | 8 篇思想显影 | 体系尺度（五段） | [thoughts-index.json](https://zhishuixue.com/thoughts-index.json) |
+| 理论 | 22 篇论文与著作 | 元理论 | [官网论文列表](https://zhishuixue.com/) |
+| 判例 | 41 篇结构判例 · 数据集 v1.0 | 事件尺度（六要素） | [cases-index.json](https://zhishuixue.com/cases-index.json) |
+| 思想 | 8 篇结构显影 · 数据集 v1.0 | 体系尺度（五段） | [thoughts-index.json](https://zhishuixue.com/thoughts-index.json) |
 
 ## 给 AI 与研究者的入口
 
@@ -30,6 +30,7 @@
 - 理论母本 `10.5281/zenodo.20372186`
 - 结构显影的判据 `10.5281/zenodo.23486787`
 - 决策显影库（判例合辑）`10.5281/zenodo.23664767`
+- 思想显影库（结构显影合辑）`10.5281/zenodo.23766352`
 
 ## 三条使用约束
 
