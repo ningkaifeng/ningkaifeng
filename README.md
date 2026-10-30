@@ -1,6 +1,6 @@
 # 宁凯峰 · Ning Kaifeng
 
-**独立研究者** ｜ 治水学（Dynamic Sustenance Theory, DST）创立者
+**独立研究者** ｜ 研究治水学（Dynamic Sustenance Theory, DST）
 
 > 研究系统如何在永恒流变中维持自身存续。知识的最小单位不是命题，是结构。
 
